@@ -7,7 +7,7 @@ completions and keybinding for [ghq](https://github.com/motemen/ghq)
 With [fisherman](https://github.com/fisherman/fisherman)
 
 ```fish
-fisher add decors/fish-ghq
+fisher add soata/fish-ghq
 ```
 
 ## Keybinding
@@ -15,6 +15,10 @@ fisher add decors/fish-ghq
 - Ctrl-g: repository finder using [fzf], [peco] or [percol].
 
 ## Variables
+
+### `GHQ_USER`
+
+Filter repositories by this variable.
 
 ### `GHQ_SELECTOR`
 
