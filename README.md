@@ -12,7 +12,8 @@ fisher add soata/fish-ghq
 
 ## Keybinding
 
-- Ctrl-g: repository finder using [fzf], [peco] or [percol].
+- Ctrl-]: repository finder using [fzf], [peco] or [percol].
+- Ctrl-Meta-]: repository finder with GHQ_USER filter.
 
 ## Variables
 
